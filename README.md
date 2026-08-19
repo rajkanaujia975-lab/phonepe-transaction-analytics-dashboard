@@ -1,4 +1,4 @@
-# phonepe-transaction-analytics-dashboard
+# dashboard.png
 Data analytics project using Power BI to visualize PhonePe transactions, identify payment trends, and generate actionable business insights.
 Dashboard Preview
 
