@@ -2,7 +2,7 @@
 Data analytics project using Power BI to visualize PhonePe transactions, identify payment trends, and generate actionable business insights.
 Dashboard Preview
 
-![Dashboard](phonepe yearly data analysis.png (2).png)
+https://github.com/rajkanaujia975-lab/phonepe-transaction-analytics-dashboard/blob/main/phonepe%20yearly%20data%20analysis.png%20(2).png
 
 Project Overview
 
