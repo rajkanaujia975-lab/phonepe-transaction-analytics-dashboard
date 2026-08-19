@@ -13,7 +13,7 @@ Key Metrics
 
 - Total Transactions
 - Total Transaction Amount
-- Registered Users
+- unique Users
 - Transaction Success Rate
 - Average Transaction Value
 - Year-over-Year Growth
