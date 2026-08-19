@@ -28,11 +28,10 @@ Tools Used
 
 Insights Generated
 
-- State-wise transaction performance
-- Transaction type analysis
-- User growth trends
-- Payment success analysis
-- Business performance tracking
+- total transaction amount reached
+- success rate of transaction
+- month over month growth rate in %
+- top performing service type 
 
 Author
 
