@@ -4,6 +4,11 @@ Data analytics project using Power BI to visualize PhonePe transactions, identif
 Dashboard Preview
 
 https://github.com/rajkanaujia975-lab/phonepe-transaction-analytics-dashboard/blob/main/phonepe%20yearly%20data%20analysis.png%20(2).png
+## How to Run this Dashboard
+
+1. Download `phonepe yearly data analysis.pbix` from this repo
+2. Install [Power BI Desktop Free](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
+3. Open the .pbix file and interact with the dashboard
 
 Project Overview
 
